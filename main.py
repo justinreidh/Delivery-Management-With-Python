@@ -1,4 +1,3 @@
-# student ID: 012310417
 import csv
 from datetime import timedelta
 
